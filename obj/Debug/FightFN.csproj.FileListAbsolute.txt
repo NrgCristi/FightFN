@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\FightFN\bin\Debug\FightFN.exe
+C:\Users\User\source\repos\FightFN\bin\Debug\FightFN.pdb
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.Form1.resources
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.Properties.Resources.resources
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.exe
+C:\Users\User\source\repos\FightFN\obj\Debug\FightFN.pdb
